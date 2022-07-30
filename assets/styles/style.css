@@ -38,7 +38,7 @@ html, body {
     flex-direction: column;
     justify-content: space-between;
     min-height: inherit;
-    background: url("../images/hand-phone.png") no-repeat right bottom;
+    background: url("../images/hand.png") no-repeat right bottom;
     background-size: 50%;
 }
 

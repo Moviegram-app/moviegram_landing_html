@@ -42,6 +42,9 @@ html, body {
     flex-direction: column;
     justify-content: space-between;
     min-height: inherit;
+}
+
+.main__content--hand {
     background: url("../images/hand.png") no-repeat right bottom;
     background-size: 50%;
 }
@@ -114,6 +117,7 @@ html, body {
 
 .qr__img {
     margin-right: 140px;
+    width: 120px;
 }
 
 .mobile-hand-phone {
@@ -187,4 +191,33 @@ html, body {
         width: 100%;
         margin-top: 25px;
     }
+}
+
+.text {
+    padding: 20px 0;
+    color: #fff;
+    line-height: 24px;
+    font-size: 17px;
+}
+
+.text p {
+    margin-bottom: 16px;
+}
+
+.text a {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.text h2 {
+    margin: 16px 0;
+    font-size: 26px;
+    display: block;
+    line-height: 44px;
+}
+
+.text ul {
+    list-style: circle;
+    margin: 16px;
 }

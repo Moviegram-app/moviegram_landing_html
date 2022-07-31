@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "",
+                "paths": [
+                    "*",
+                    "NOT /privacy.html/"
+                ]
+            }
+        ]
+    }
+}

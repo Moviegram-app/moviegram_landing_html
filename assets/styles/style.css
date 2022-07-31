@@ -23,6 +23,10 @@ html, body {
     font-size: 14px;
 }
 
+.logo__img {
+    width: 120px;
+}
+
 .container {
     width: 1024px;
     max-width: 90%;
